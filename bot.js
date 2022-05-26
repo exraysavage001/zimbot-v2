@@ -35,7 +35,7 @@ global.APIKeys = {
 //settings
 global.owner = [254791195553',''] //owner number +254791195553
 global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.premium = [2540104058797'] //premium number +25470104058797
 global.pengguna = 'exray' //username
 global.footer = 'exraybottoINC'
 global.botnma = 'ZIMBOT INC' //RAYBOTTO
